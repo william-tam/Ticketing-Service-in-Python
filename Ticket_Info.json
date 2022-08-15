@@ -1,0 +1,26 @@
+{
+    "destinations":{
+        "Bali": {
+            "Flight_1":["7:00am", 100],
+            "Flight_2":["8:45am", 125],
+            "Flight_3":["3:45pm", 250]
+        },
+        "New York":{
+            "Flight_1":["5:45am", 145],
+            "Flight_2":["10:15am", 375],
+            "Flight_3":["6:00pm", 250]
+        },
+        "Paris":{
+            "Flight_1":["7:00am", 100],
+            "Flight_2":["8:45am", 125],
+            "Flight_3":["3:45pm", 250]
+       },
+        "Shanghai":{
+            "Flight_1":["4:30am", 200],
+            "Flight_2":["12:30pm", 225],
+            "Flight_3":["4:15pm", 340]
+        }
+        
+    } 
+    
+}
